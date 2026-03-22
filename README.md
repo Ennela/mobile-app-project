@@ -37,7 +37,6 @@ mobile-app-project/
 │   ├── components/      # Các component dùng chung
 │   ├── screens/         # Các màn hình chính
 │   ├── navigation/      # Cấu hình điều hướng
-│   ├── services/        # API calls, services
 │   ├── utils/           # Hàm tiện ích
 │   └── styles/          # Style dùng chung
 ├── .gitignore
