@@ -47,8 +47,6 @@ mobile-app-project/
 
 ## Tác giả
 
-- **Tên** - *Vai trò*
-
-## License
-
-MIT License
+- Nguyễn Văn Kiên
+- Đỗ Quang Hà
+- Nguyễn Bá Nhân
